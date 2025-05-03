@@ -13,7 +13,7 @@ Deployment: Render (for API hosting)
 🧠 Key Features
 🗒️ Create, read, update, and delete rich-text notes
 
-🖼️ Upload and store images alongside notes
+🖼️ Upload and store images (pending implementation of BLOB collab would be appreciated) alongside notes
 
 🧩 Demonstrates both relational-style data (e.g., note-user relationships) and BLOB storage (for images) in MongoDB
 
