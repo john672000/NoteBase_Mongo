@@ -1,5 +1,5 @@
-#NoteHub – Smart Note-Taking App with Image Upload
-NoteHub is a full-stack note-taking web application that allows users to create, read, update, and delete notes, with support for uploading and storing images. Designed to demonstrate core concepts in handling relational-like data and BLOB (Binary Large Object) storage using modern web technologies.
+# NoteHub – Smart Note-Taking App with Image Upload
+## NoteHub is a full-stack note-taking web application that allows users to create, read, update, and delete notes, with support for uploading and storing images. Designed to demonstrate core concepts in handling relational-like data and BLOB (Binary Large Object) storage using modern web technologies.
 
 🚀 Tech Stack
 Frontend: React + Bootstrap (BS)
