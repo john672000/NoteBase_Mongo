@@ -3,3 +3,4 @@ pymongo==4.7
 uvicorn
 python-dotenv
 passlib[bcrypt]
+certifi>=2023.7.22
