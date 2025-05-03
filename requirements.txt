@@ -1,0 +1,5 @@
+fastapi
+pymongo==4.7
+uvicorn
+python-dotenv
+passlib[bcrypt]
